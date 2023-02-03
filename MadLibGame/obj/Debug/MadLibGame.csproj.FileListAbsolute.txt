@@ -1,0 +1,8 @@
+C:\Users\EmJey\source\repos\MadLibGame\MadLibGame\bin\Debug\MadLibGame.exe.config
+C:\Users\EmJey\source\repos\MadLibGame\MadLibGame\bin\Debug\MadLibGame.exe
+C:\Users\EmJey\source\repos\MadLibGame\MadLibGame\bin\Debug\MadLibGame.pdb
+C:\Users\EmJey\source\repos\MadLibGame\MadLibGame\obj\Debug\MadLibGame.csproj.AssemblyReference.cache
+C:\Users\EmJey\source\repos\MadLibGame\MadLibGame\obj\Debug\MadLibGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\EmJey\source\repos\MadLibGame\MadLibGame\obj\Debug\MadLibGame.csproj.CoreCompileInputs.cache
+C:\Users\EmJey\source\repos\MadLibGame\MadLibGame\obj\Debug\MadLibGame.exe
+C:\Users\EmJey\source\repos\MadLibGame\MadLibGame\obj\Debug\MadLibGame.pdb
